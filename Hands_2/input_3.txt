@@ -1,6 +1,0 @@
-int y = 20;
-return y;
-// Esto es un comentario
-/* Esto es un comentario
-   de varias líneas */
-"Hola Mundo"
