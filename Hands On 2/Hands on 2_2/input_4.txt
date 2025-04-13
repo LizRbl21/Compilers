@@ -1,0 +1,10 @@
+int suma = 15 + 25;
+return suma;
+
+// Este es un comentario simple
+/*
+   Comentario de varias líneas
+   que debe ser reconocido correctamente
+*/
+char letra = 'A';
+printf("El resultado es: %d", suma);
