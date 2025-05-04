@@ -1,0 +1,11 @@
+
+x = y;
+func f(, b) {
+  int a;
+  x = a;
+  f(a);
+  return a;
+}
+f(x, x);
+f(x);
+f();
